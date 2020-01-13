@@ -1,11 +1,11 @@
 --- 
 lab: 
-    title: 'Lab: Manage communication in Microsoft Teams '
+    title: 'Lab: Manage communication in Teams'
     type: 'Answer Key' 
     module: 'Module 06: Manage communication in Microsoft Teams' 
 ---
 
-# Lab 06: - Manage communication in Microsoft Teams
+# Lab 06: - Manage communication in Teams
 # Student lab answer key
 ## Lab Scenario  
 
