@@ -1,11 +1,10 @@
 --- 
 lab: 
-    title: 'Lab: Manage communication in Microsoft Teams '
-    type: 'Answer Key' 
+    title: 'Lab: Manage communication in Teams'
     module: 'Module 06: Manage communication in Microsoft Teams' 
 ---
 
-# Lab 06: - Manage communication in Microsoft Teams
+# Lab 06: - Manage communication in Teams
 # Student lab manual
 ## Microsoft 365 user interface 
 
